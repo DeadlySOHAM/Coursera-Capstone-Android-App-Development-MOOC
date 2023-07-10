@@ -28,7 +28,5 @@ We'll be using this api to generate and download QR for respective Text.
 
 ## Demo Video
 
-<video width="100%" height="600px" controls>
-   <source src="https://drive.google.com/uc?id=1yacjgrKlER__Qmy984_zyygSbpHuw0Zz" type="video/mp4">
-   Your browser does not support the video tag.
-</video>
+[![Demo Video](https://drive.google.com/uc?id=1NpMNe2E5Ap9dvB2I2H3PaDFIYkEOja6x)](https://drive.google.com/uc?id=1yacjgrKlER__Qmy984_zyygSbpHuw0Zz)
+
